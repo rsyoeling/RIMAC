@@ -1,0 +1,17 @@
+body{
+    background: #E4E5FF;
+}
+
+.nav{
+    background: #271D2E;
+}
+
+.card{
+    background: linear-gradient(to bottom, #FFF17E, #feb47b);
+
+}
+
+.img-card{
+    max-width: 200px;
+    height: 200px;
+}
